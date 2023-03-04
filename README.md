@@ -1,6 +1,6 @@
 # Bachelorarbeit: Datenanalyse im Profifußball: Leistungsanalyse, wirtschaftliche Auswirkungen und Technologie
 
-# Überblick über den Bereich der Datenanalyse im Kontext des Fußballs und zwei exemplarische Anwendungsgebiete in R
+## Überblick über den Bereich der Datenanalyse im Kontext des Fußballs und zwei exemplarische Anwendungsgebiete in R
 
 1. Anwendungsgebiet: Korrelationsanalyse bzgl. des Erfolgs von Bundesligamannschaften
   * benötigter Datensatz: Mannschaftsdaten.xlsx
